@@ -98,7 +98,7 @@ def main(cfg: Config):
 
 
 if __name__ == "__main__":
-    matplotlib.use("Qt5agg")
+    # matplotlib.use("Qt5agg")
 
     cfg = Config()
     # cfg = Config(num_agents=10)

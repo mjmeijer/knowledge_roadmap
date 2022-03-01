@@ -7,7 +7,7 @@ networkx==2.6.3
 numpy==1.22.1
 Pillow==9.0.0
 scikit-image==0.19.1
-PyQt5==5.15.6
+# PyQt5==5.15.6
 opencv-python==4.5.5.62
 vedo==2022.0.1
 pytest==6.2.
